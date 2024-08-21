@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+}
+
+ #pacman{
+  height: 500px;
+  width: 500px;
+  border-radius: 12px;
+  margin: 20px auto;
+}
+
+#shim {
+  font-family: 'Permanent Marker', cursive;
+  position: absolute;
+  visibility: hidden
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  color: rgb(255, 0, 0);
+}
+
+h1{
+  color: red;
+  text-decoration: overline;
+  text-align: center;
+
+}
+h3{
+  color: #00ccff;
+  text-align: center;
+text-decoration: none;} 
+body {
+  width: 100%;
+  margin: 0px auto;
+  font-family: sans-serif;
+}
+
+.a {
+  text-decoration: none;
+  color: greenyellow;
+  text-align: center;
+}
