@@ -10,4 +10,9 @@ Fun comecocos-game using Javascript.
  
 3. **For download the project**
 
-   
+   1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/
+   ```
+
