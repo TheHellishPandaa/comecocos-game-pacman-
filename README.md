@@ -13,6 +13,6 @@ Fun comecocos-game using Javascript.
    1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/TheHellishPandaa/new-comecocos-game.git
    ```
 
