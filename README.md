@@ -1,6 +1,6 @@
 # new-comecocos-game
 
-Fun comecocos-game using Javascript.
+comecocos-game using Javascript.
 
 
 
